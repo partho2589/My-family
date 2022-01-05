@@ -1,2 +1,23 @@
-h1{color: green;}
-p{ background-color: indigo;}
+body{font-family: 'Ubuntu', sans-serif;
+
+}
+.wellcome{
+    display: flex;
+    padding: 70px;
+    
+}
+.world{ 
+    width: 50%;
+    background-image: url(images/top-banner.png);
+}
+.images{ width: 75%;
+
+}
+h1{font-size: 50px;}
+samp{color: green;}
+.hire{
+    text-decoration: none;
+    padding: 10px 40px;
+    border-radius: 5px;
+    background-image: linear-gradient(orange, tomato);
+}
