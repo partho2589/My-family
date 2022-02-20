@@ -1,23 +1,16 @@
-body{font-family: 'Ubuntu', sans-serif;
-
+body{
+    margin: 0;
 }
-.wellcome{
+h1{ font-size: 50px;}
+.fast-section{
     display: flex;
-    padding: 70px;
-    
 }
-.world{ 
+.hafe-division{
     width: 50%;
-    background-image: url(images/top-banner.png);
+    padding: 2%;
 }
-.images{ width: 75%;
-
+.hafe-division img{
+    width:80%;
 }
-h1{font-size: 50px;}
-samp{color: green;}
-.hire{
-    text-decoration: none;
-    padding: 10px 40px;
-    border-radius: 5px;
-    background-image: linear-gradient(orange, tomato);
-}
+.partho-color{color: darkturquoise;}
+.hafe-division{border-radius: none;}
